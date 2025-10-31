@@ -62,16 +62,17 @@
         #main2 {
             margin-top: 50px;
             width: 100%;
-           /* border: solid 2px black;*/
+         /*   border: solid 2px black;*/
             display: flex;
             align-items: center;
             gap: 0px;
-            background-color: rgb(209, 195, 161);
+            
         }
         .left{
             width: 50%;
-            /*border: 2px solid green;*/
-            height: 350px;
+         /*   border: 2px solid green;*/
+
+            
         }
         .heading2 {
             text-align: center;
@@ -104,15 +105,11 @@
             left: 35%;
             top: 25px;
         }
-        .right{
-            width:50%;
-           /*  border: 2px solid black;*/
-            height: 350px;
-        }
-        .right>img{
-            width: 50%;
-            height: 350px;
-            position: relative;
-            left: 20%;
         
+        .right>img{
+           /* border: 2px solid black;*/
+            width: 350px;
+            height: auto;
+           padding-left: 33%;
+            
         }

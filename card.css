@@ -1,0 +1,44 @@
+
+#cardmain{  
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    margin: 6px;
+
+}
+.cardimg>img{
+    width: 100%;
+}
+#cardtext{
+    margin: 20px 20px 10px 20px;
+}
+#cardtext>button{
+    border-radius: 5px;
+    border: solid gray;
+    padding:5px 7px 5px 7px;
+    color: gray;
+    transition:3s;
+    
+}
+#cardtext>button:hover{
+    color: goldenrod;
+    border-color: goldenrod;
+    padding: 7px 9px 7px 9px;
+    transform: scale(1s );
+}
+.card{
+    
+border: 2px solid black;
+border-radius: 7px 7px 0 0;
+}
+#cardtext>h6{
+    font-size: small;
+    margin-bottom: 10px;
+    color: rgb(193, 199, 206);
+}
+#cardtext>h3{
+    font-size: larger;
+}
+#cardtext>p{
+    font-size: small;
+}

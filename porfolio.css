@@ -1,0 +1,22 @@
+
+#title{
+    border-radius: 2px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+#h3{
+    display: inline-block;
+    text-align: center;
+    color:goldenrod;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.para2{
+    text-align: center;
+    color: rgb(190, 184, 184);
+    font-size: medium;
+    font-family: sans-serif;
+    font-size: 13px;
+}
